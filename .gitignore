@@ -139,3 +139,6 @@ arm-gcc/
 clang/
 out/
 aarch32-gcc/
+origami_kernel_builder.sh
+anykernel/
+.buildnumber
